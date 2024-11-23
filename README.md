@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PRITESH Jawanjal
+- 👋 Hi, I’m @PRITESH_JAWANJAL
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...MCA
 - 💞️ I’m looking to collaborate on ...
